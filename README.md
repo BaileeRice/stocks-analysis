@@ -10,7 +10,6 @@ In 2017, I think it's fair to say the energy market was flourishing and many pow
 
 ![image](https://user-images.githubusercontent.com/105184244/176032945-fc626f2c-9050-4d5f-aecb-31a998797fdb.png)
 
----
 
 In 2018, things seemed to be settling down back to a more 'stable' market price. At face value, you could've written off alot of these stocks if the table wasnt formatted to display both years, you wouldnt have ever known that the energy market as a whole SKYROCKETED the year before and now it's likely just settling(not tanking).
 
