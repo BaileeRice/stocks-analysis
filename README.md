@@ -29,6 +29,8 @@ RUNTIMES FOR REFACTORED CODE:
 ## SUMMARY:
 
 pros
+
 a glaring benifit to refactoring code is the neatness, being able to run things at a fraction of what they once ran at is always a plus 
 cons
+
 While it may be easy to read now, it likely wasnt easy to create(this assignment for example), compressing code and still keeping its integrity can be VERY time consuming, even with proper direction
