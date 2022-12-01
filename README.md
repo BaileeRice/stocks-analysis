@@ -3,7 +3,6 @@
 
 Module 2's assignment is all about making the macro we created for Steve to run faster, as well as making it a easier to read for potential edits made by us or another coder in the future
 
----
 
 ## RESULTS:
 In 2017, I think it's fair to say the energy market was flourishing and many power companies saw huge net profits like DQ and SEDG(who saw almost 200% returns), for example:
